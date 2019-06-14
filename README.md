@@ -1,4 +1,4 @@
-# Examples of Machine Learning Algorithns
+# Examples of Machine Learning Algorithms
 
  This project will work with FIFA 19 data set available from the link below on Kaggle and aim to use 
  some machine learning algorithms to predict soccer player market value based on player's attributes.
