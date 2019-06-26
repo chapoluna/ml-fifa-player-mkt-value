@@ -11,5 +11,4 @@
  and place the unziped file under 'data' directory
  
  FIFA 19 complete player dataset
- 
  https://www.kaggle.com/karangadiya/fifa19
