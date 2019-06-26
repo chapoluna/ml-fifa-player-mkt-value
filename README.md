@@ -9,6 +9,7 @@
 
  Note: to run this project successfuly you'll first need to download the dataset from the link below 
  and place the unziped file under 'data' directory
+ 
  FIFA 19 complete player dataset
  
  https://www.kaggle.com/karangadiya/fifa19
